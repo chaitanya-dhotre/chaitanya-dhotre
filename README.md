@@ -9,7 +9,7 @@ Looking for a SOC, security-engineering or VAPT role in India from January 2027.
 | Project | What it is | Built with |
 |---|---|---|
 | [**RogueAP Shield**](https://github.com/chaitanya-dhotre/RogueAP-Shield) | Windows service that detects evil-twin Wi-Fi with 7 signals and triggers a VPN kill switch | C#, .NET 9, WPF, Windows Filtering Platform |
-| [**Kuch Bhi**](https://github.com/chaitanya-dhotre/kuch_bhi) | End-to-end encrypted messenger with a self-hosted, hardened Oracle Cloud backend | Flutter, X25519 + AES-256-GCM, PocketBase, Tailscale |
+| [**Kuch Bhi**](https://chaitanyadhotre.dev/work/kuch-bhi/) *(code private)* | End-to-end encrypted messenger with a self-hosted, hardened Oracle Cloud backend | Flutter, X25519 + AES-256-GCM, PocketBase, Tailscale |
 | [**RiskGate**](https://chaitanyadhotre.dev/work/riskgate/) *(code private until assessed)* | Risk-adaptive, human-approved, time-bound access elevation for AWS, driven by CloudTrail behaviour and attack paths | Python, FastAPI, AWS STS/IAM, CloudTrail |
 
 ## Toolbox
